@@ -1,0 +1,14 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "wasabiswap/WasabiToken": [
+      {
+        "address": "0x6b0F7019493fb1fb08b4c15206e7DF9e77b66cbA",
+        "kind": "NonProxy",
+        "bytecodeHash": "f9090485feb892a7cf5332b6321e18491ec41c3ea3bd99c5b58466f63cee6961"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}
